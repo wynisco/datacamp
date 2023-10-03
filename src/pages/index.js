@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <Layout
       title={`WYNISCO - ${siteConfig.title}`}
-      description="Faster than the speed of light Well, that's how quickly we can get you hired!">
+      description="Faster than the speed of light Well, that's how quickly we can get you hired!!!!">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
